@@ -7,56 +7,6 @@ Project Questions on Probability & Probability Distribution
 
 A physiotherapist with a male football team is interested in studying the relationship between foot injuries and the positions at which the players play from the data collected 
 
- 
-
-Striker
-
-Forward
-
-Attacking Midfielder
-
-Winger
-
-Total
-
-Players Injured
-
-45
-
-56
-
-24
-
-20
-
-145
-
-Players Not Injured
-
-32
-
-38
-
-11
-
-9
-
-90
-
-Total
-
-77
-
-94
-
-35
-
-29
-
-235
-
- 
-
 2.1 What is the probability that a randomly chosen player would suffer an injury?
 
 2.2 What is the probability that a player is a forward or a winger?
